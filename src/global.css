@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Gochi+Hand&family=Unica+One&display=swap");
+
+* {
+  font-family: "Unica One", cursive;
+}
+
+html {
+  height: 100%;
+  background-color: #79addc;
+}
+
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
